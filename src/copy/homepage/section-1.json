@@ -1,0 +1,13 @@
+{
+  "sectionId": "section1",
+  "title": "Customizable User\nExperience",
+  "description": "Fully customise the authentication experience based your organisations's branding. From custom domains to service emails, you can personalise it all taking into consideration the application context.",
+  "leftColumn": {
+    "title": "Hosted Login",
+    "text": "Leverage a pre-built, customisable login experience including registration, account validation, MFA enrollment and more."
+  },
+  "rightColumn": {
+    "title": "Embedded Login",
+    "text": "Take your tailoring needs to the next level. With embedding login you can build your own authentication page."
+  }
+}
